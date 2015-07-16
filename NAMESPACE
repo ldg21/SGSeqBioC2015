@@ -1,0 +1,7 @@
+## IMPORT NAMESPACES
+
+import(methods)
+import(IRanges)
+import(GenomicRanges)
+import(SGSeq)
+import(TxDb.Hsapiens.UCSC.hg19.knownGene)
