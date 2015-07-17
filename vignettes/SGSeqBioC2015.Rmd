@@ -1,5 +1,15 @@
 ---
-output:
+title: "SGSeq"
+author: "Leonard D GoldStein"
+date: "`r BiocStyle::doc_date()`"
+package: "`r BiocStyle::pkg_ver('SGSeqBioC2015')`"
+abstract: >
+  SGSeq
+vignette: >
+  %\VignetteIndexEntry{SGSeq}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+output: 
   BiocStyle::html_document:
     toc: true
 ---
