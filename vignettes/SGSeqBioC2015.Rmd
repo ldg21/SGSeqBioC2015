@@ -1,6 +1,6 @@
 ---
 title: "SGSeq"
-author: "Leonard D GoldStein"
+author: "Leonard D Goldstein"
 date: "`r BiocStyle::doc_date()`"
 package: "`r BiocStyle::pkg_ver('SGSeqBioC2015')`"
 abstract: >
